@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashok Kumar Rana</h1>
 <h3 align="center">A passionate Java Developer from India</h3>
 <img align="right" alt="coding"width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&s">
-🌱 I have currently learned all these technologies ***Collection|JDBC|Servlet|JSP|Hibernate|Spring-Core|Spring MVC|Spring-Boot***
+🌱 I have currently learned all these technologies *Collection/JDBC/Servlet/JSP/Hibernate/Spring-Core/Spring MVCSpring-Boot*
 
 💬 Ask me about ***HTML/CSS/JDBC/Core-Java/Hibernate/Spring-framework***
 
